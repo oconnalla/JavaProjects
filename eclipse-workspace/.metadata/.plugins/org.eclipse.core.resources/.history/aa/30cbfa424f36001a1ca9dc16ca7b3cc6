@@ -1,0 +1,27 @@
+package FooBarBazMumble;
+
+public class FooBarBazMumble {
+	public static void main(String[] args) {
+		foo();
+		bar();
+		System.out.println("mumble");
+		math();
+	 }
+	
+	 public static void foo() {
+		 System.out.println("foo");
+	 }
+	 
+	 public static void bar() {
+		 System.out.println("bar");
+	 }
+	 
+	 public static void baz() {
+		 System.out.println("baz");
+	}
+	public static void math() {
+		System.out.println(14/4);
+	}
+	
+
+}

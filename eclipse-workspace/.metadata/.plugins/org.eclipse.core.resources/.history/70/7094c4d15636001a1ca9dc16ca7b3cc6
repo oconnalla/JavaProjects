@@ -1,0 +1,16 @@
+package FooBarBazMumble;
+
+import java.text.NumberFormat;
+
+
+public class tax {
+	
+	
+	
+	public static void printFormat(double currencyValue) {
+		NumberFormat cf1 = NumberFormat.getCurrencyInstance();
+		System.out.println("resulting value is " + cf1.format(currencyValue));
+		
+	}
+
+}

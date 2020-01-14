@@ -1,0 +1,27 @@
+
+public class RocketShip {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+    public static void drawBox1(){
+        String top = "/\\";
+        String mid = "/  \\";
+        String bottom = "/  \\";
+        System.out.println(top);
+		System.out.println(mid);
+		System.out.println(bottom);
+    }
+    public static void drawBox2(){
+    	String hor = "+---+";
+        String mid = "|    |";
+        System.out.println(hor);
+		System.out.println(mid);
+		System.out.println(mid);
+		System.out.println(hor);
+    }
+    
+
+}
