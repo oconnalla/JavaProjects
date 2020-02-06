@@ -12,7 +12,7 @@ class Repl {
 public static void main(String[] args) {
   repl("hello", 3);
   repl("Ariel", 0);
-  repl("Ariel", 6);
+  repl("Ariel", 6 );
 }
 public static void repl(String s, int times){
   String newS = "";
