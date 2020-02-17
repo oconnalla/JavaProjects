@@ -1,0 +1,5 @@
+Hello world!
+
+This output produces
+four lines of output
+The old content is gone
