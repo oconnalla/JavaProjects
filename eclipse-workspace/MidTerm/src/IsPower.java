@@ -16,7 +16,7 @@ public class IsPower {
 			int counter = 0;
 			while(compare < n) {
 				compare = Math.pow(2, counter);
-				System.out.println("2 to the " + counter + " (counter) equals " + 
+				System.out.println("the number to check against is: " + n + ".   2 to the " + counter + " (counter) equals " + 
 				(String.format("%f", compare).split("\\.")[0]) + " (compare).");
 				counter ++;		
 			}
