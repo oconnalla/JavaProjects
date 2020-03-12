@@ -1,6 +1,14 @@
 package ch8;
 import java.text.NumberFormat;
 
+//*******************************************************************
+//Product Constructor Assignment 9
+//
+//allows to construct and print product objects and returns them in a formatted way for easy reading
+//By: Ariel OConnall
+//Date 3/11/20
+//*******************************************************************
+
 public class Product {
 	
 	// VARIABLES
